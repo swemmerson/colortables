@@ -1,0 +1,10 @@
+Product: BV
+Units: KTS 
+Step: 10 
+Scale:   1.9426     ; converts internal units (M/S) to KTS
+RF: 128 0 208 
+ND: 128 128 128
+
+Color: -120 0 0 160 
+color: 0 255 255 255
+Color: 120 160 0 0

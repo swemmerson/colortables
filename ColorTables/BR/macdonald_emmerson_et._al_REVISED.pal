@@ -1,0 +1,30 @@
+; AWIPS III
+
+Product: BR
+Units: DBZ
+Step: 5
+
+
+
+;Color: -5 201 225 238 
+
+;Color: 13.5 23 42 171  
+
+;Color: 17.5 72 184 133
+
+Color: -5 0 0 0
+Color: 19.9 170 170 170
+Color: 20 16 166 55 16 104 55
+Color: 29.9 16 88 55 
+
+
+
+Color: 30 255 225 0 
+Color: 40 255 195 0
+Color: 40.1 255 0 0
+Color: 45 255 0 0 
+Color: 51.5 121 4 4 
+Color: 53.5 197 14 200
+Color: 65 251 243 252
+
+Color: 80 150 44 230

@@ -1,0 +1,24 @@
+;NWS 8 bit velocity curve (derived from ppt) 
+
+Product: BV
+Units: KTS 
+Step: 20 
+Scale:   1.9426     ; converts internal units (M/S) to KTS
+
+RF: 2 2 2 
+ND: 0 0 0 
+color: -150 240 0 240
+color:-100 64 0 84
+color: -50 10 250 255
+color: -25 0 120 240
+color: -20 0 50 220
+color: -10 0 24 100 80 80 120 
+color: -5 87 87 140
+color: 0 140 140 140 140 87 87
+color: 5 120 80 80 100 24 0
+color: 10 100 24 0
+color: 20 220 50 0
+color: 25 240 120 0
+color: 50 255 250 10
+color: 100 8 8 8 
+color: 150 88 8 8

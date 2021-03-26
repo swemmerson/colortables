@@ -1,0 +1,38 @@
+;
+; Full range reflectivity palette
+;
+;
+;  Note the gap between -35 and 0. You don't have to manually interpolate
+;   colors. The 'Step:' statement will fill in the axis labels for the
+;   intermediate values
+;
+
+Product: BR
+Units:  DBZ
+Step:   5
+
+color:  -30	 0    0    5
+color:  -25	 0    0   10
+color:  -20	 0    0   20
+color:	-15	 0    0   30
+color:  -10 	 0    0   40
+color:  -5       0    0   50
+Color:   0       0    0  100
+Color:   15      0    0  300
+Color:   20      0  255    0
+Color:   25      0  200    0
+Color:   30      0  144    0
+Color:   35    255  255    0
+Color:   40    231  192    0
+Color:   45    255  144    0
+Color:   50    255    0    0
+Color:   58    192    0    0
+Color:   65    255    0  255
+Color:   70    153   85  201
+Color:   75    255  255  255
+Color:   95      0   25   25
+
+
+ND:   0  0  0
+RF:  64 64 64
+

@@ -1,0 +1,26 @@
+;=========================================
+;   BV Color Table for GR3v2
+;   Base Velocity
+
+Product: BV
+units: MPH
+scale: 2.237
+step: 10
+
+color: 120  164 089 068
+color:  70  255 255 000
+color:  58  254 154 039
+color:  50  255 055 026
+color: -40  000 255 000
+color: -10  016 096 016
+color: -.01 112 128 112
+
+color:  0  144 128 144 
+
+color: 10  112 000 000
+color: 40  255 000 000
+color: -50  082 247 089
+color: -58  071 240 240
+color: -120 000 000 255
+
+RF: 128 0 208

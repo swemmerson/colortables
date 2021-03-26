@@ -1,0 +1,18 @@
+
+Product:  NROT
+Units:    NROT
+Step:     0.5
+Decimals: 2
+
+Color:    4   240 240 240
+Color:    3   90 0 90
+Color:    2.75 120 0 120
+Color:    2.5  225 88 225
+Color:    2   128   0   0     
+Color:    1.5   218   120   0      
+Color:    1   255 255  96             
+Color: 0.25     0   0 64   100 220 255    
+Color4: 0        8 8 8 0
+Color:    -0.5   10  64  64     
+Color:    -3   20 200 200 
+

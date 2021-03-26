@@ -1,0 +1,47 @@
+;RaXPol
+product: BR
+units: dBZ
+step: 10
+
+solidcolor: 70 253 0 5
+solidcolor: 68 236 44 72
+solidcolor: 66 215 29 72
+solidcolor: 64 195 14 54
+solidcolor: 62 166 0 37
+solidcolor: 60 141 0 1
+solidcolor: 58 144 60 77
+solidcolor: 56 105 66 60
+solidcolor: 54 116 71 49
+solidcolor: 52 134 81 48
+solidcolor: 50 147 93 48
+solidcolor: 48 164 104 42
+solidcolor: 46 182 117 36
+solidcolor: 44 196 131 30
+solidcolor: 42 213 143 24
+solidcolor: 40 232 157 19
+solidcolor: 38 237 172 15
+solidcolor: 36 235 186 11
+solidcolor: 34 237 200 9
+solidcolor: 32 237 215 72
+solidcolor: 30 234 224 162
+solidcolor: 28 200 224 198 
+solidcolor: 26 180 214 178
+solidcolor: 24 147 201 145
+solidcolor: 22 116 189 116
+solidcolor: 20 86 175 85
+solidcolor: 18 61 161 57 
+solidcolor: 16 40 149 34
+solidcolor: 14 23 135 14
+solidcolor: 12 16 121 1
+solidcolor: 10 14 109 0
+solidcolor: 8 13 97 1
+solidcolor: 6 39 115 76
+solidcolor: 4 58 134 137
+solidcolor: 2 94 119 254
+solidcolor: 0 85 64 254
+solidcolor: -2 70 0 222
+solidcolor: -4 55 0 185
+solidcolor: -6 43 0 157
+solidcolor: -8 30 0 129
+solidcolor: -10 84 38 125
+solidcolor: -20 100 0 147

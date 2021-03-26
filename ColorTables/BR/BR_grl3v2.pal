@@ -1,0 +1,24 @@
+;=========================================
+;   BR Color Table for GR3v2
+;   Base and Composite Reflectivity
+
+Product: BR
+units: DBZ
+step: 5
+
+Color:  0  032 032 032  ; gray
+Color:  5  064 064 064
+Color: 10  128 128 128
+Color: 20  096 192 255  ; cyan
+Color: 25  000 136 139
+Color: 30  002 185 020  ; green
+Color: 35  010 100 010
+Color: 40  250 235 000  ; yellow
+Color: 50  150 000 000  ; med dark red
+Color: 55  075 000 000
+Color: 60  225 000 225  ; med dark pink
+Color: 62  135 000 147  ; purple
+Color: 67  061 000 097
+Color: 70  000 000 200  ; med blue
+Color: 75  140 170 220  ; slate blue
+Color: 80  170 190 240

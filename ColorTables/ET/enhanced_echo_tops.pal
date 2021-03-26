@@ -1,0 +1,34 @@
+Product: ET
+Units:   KFT
+Step:    5
+Scale:   3.281      ; convert internal units (KM) to FT
+
+Color: 10 28 215 252
+Color: 12 28 215 252
+Color: 13 28 215 252
+Color: 14 28 215 252
+Color: 15 28 215 252
+Color: 16 28 215 252
+Color: 17 28 215 252
+Color: 18 18 137 132
+Color: 19 18 137 132
+Color: 20 15 116 106
+Color: 22 15 116 106
+Color: 24 15 116 106
+Color: 26 12 89 76
+Color: 28 12 89 76
+Color: 30 21 159 12
+Color: 32 21 159 12
+Color: 34 34 255 15
+Color: 36 34 255 15
+Color: 40 250 179 9
+Color: 41 252 187 9
+Color: 42 250 116 9
+Color: 43 250 116 9
+Color: 49 107 0 1
+Color: 51 106 0 107
+Color: 54 175 0 178
+Color: 55 243 4 24
+Color: 58 231 160 232
+Color: 60 215 215 215 
+

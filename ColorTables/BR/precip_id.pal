@@ -1,0 +1,24 @@
+product: BR
+units: dBZ
+step: 5
+
+color: -30 27 27 27 40 40 50
+solidcolor: -10 0 20 80
+solidcolor: -5 0 40 120
+solidcolor: 0  0 36 15
+solidcolor: 5 0 50 0
+solidcolor: 10 0 90 0
+solidcolor: 15 0 130 0
+solidcolor: 20 0 170 0
+solidcolor: 25 10 210 0
+solidcolor: 30 50 255 0
+solidcolor: 35 180 255 0
+solidcolor: 40 255 255 0
+solidcolor: 45 210 175 0 
+solidcolor: 50 255 0 0
+solidcolor: 55 150 0 0
+solidcolor: 60 255 255 255
+solidcolor: 65 150 0 150
+solidcolor: 70 255 0 255
+solidcolor: 75 255 255 255
+solidcolor: 80 255 255 255

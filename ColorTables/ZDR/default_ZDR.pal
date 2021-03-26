@@ -1,0 +1,19 @@
+;
+; Default GRS ZDR color table
+;
+;
+
+Product: ZDR
+Units:   DB
+Step:    1
+
+Color:    7  250  250  255
+Color:    6  200  200   255
+Color:    3  50 50 255
+Color:    0.1   0 0 50 
+;Color:    5   247 130 190      255 255 255
+;Color:    2   255 255  96      255 144  70
+;Color:    1    32 200 180       32 220  32
+;Color: 0.25     0   0 152       35 152 210
+Color:    -0.1   50 0 0
+Color:   -4    255 50 50      

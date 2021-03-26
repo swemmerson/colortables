@@ -1,0 +1,19 @@
+product:BR
+units: dBZ
+step: 5
+
+
+color: 5 65 65 65
+color: 17.5 170 170 170
+color: 22.5 6 149 14
+color: 32.5 11 238 22 
+color: 37.5 255 255 0
+color: 42.5 255 204 0
+color: 48.5 255 128 0
+color: 51.5 255 0 0
+color: 58.5 115 0 0
+color: 61.5 111 0 73
+color: 66.5 179 87 241
+color: 75 255 255 255
+color: 85 0 0 0
+color: 95 0 0 0

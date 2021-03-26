@@ -1,0 +1,20 @@
+; 8 bit Refl [AWIPS II Experimental1]
+;Designed by Robert MacDonald 20160630
+
+Product: BR
+Units: DBZ
+Step: 5
+
+Color4: -30 0 0 0 255
+Color4: 0 255 255 255 233
+Color4: 10 0 36 255 97
+Color4: 34.9999 0 255 255 255
+Color4: 35 255 237 0 255
+Color4: 35.001 255 230 0 255 255 108 0 255
+Color4 49.9999 255 108 0 255
+Color4: 50 255 0 0 255
+Color4: 64.9999 119 0 0 210
+Color: 65 255 255 255
+Color4: 74.999 209 7 236 255
+Color4: 75 5 211 214 255
+Color4: 92 1 56 56 255

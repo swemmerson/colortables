@@ -1,0 +1,29 @@
+Product: SRV
+Units:   KTS
+Step:    10
+Scale:   1.9426     ; converts internal units (M/S) to KTS
+
+;RF: 64  0  64 original range folding
+RF: 128 0 208
+
+color: -120 225 43 133
+color: -110 169 77 167
+color: -100 116 149 209
+color: -90 21 210 242
+color: -80 12 248 213
+color: -70 86 247 214
+color: -60 148 250 205
+color: -50 93 254 125
+color: -40 23 245 28
+color: -30 55 188 16
+color: -20 21 132 20
+color: -5 27 91 19
+color: 0 103 103 103
+color: 5 115 0 0
+color: 20 177 0 0
+color: 30 216 0 0
+color: 40 255 0 12
+color: 50 255 12 150
+color: 65 255 192 252
+color: 70 255 97 0
+color: 120 255 255 255
