@@ -1,0 +1,24 @@
+;
+; Modified VIL color table
+;
+;
+
+Product: VIL
+Units:   kg/m2
+Step:    10
+
+Color:  0  100 100 100
+Color:  2  165 165 165
+Color:  3.0  12 229 229
+Color:  3.1 3 167 255
+Color:  16.9 3 8 194
+Color:  17  5 255 34
+SolidColor:  29.9 6 126 5
+Color:  30 255 242 3
+SolidColor:  39.9 209 113 3
+Color:  40 255 0 0
+Color:  55 179 0 0
+Color:  55.1 251 0 255
+SolidColor:  70 255 255 255
+Color:  80 204 204 204
+
